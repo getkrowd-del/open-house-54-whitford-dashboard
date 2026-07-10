@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://getkrowd-del.github.io/open-house-54-whitford-dashboard/sitemap.xml
